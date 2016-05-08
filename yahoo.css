@@ -1,0 +1,26 @@
+#header {
+  background-color: white;
+  display:block;
+  font-size: 25px;
+  color: grey;
+  font-family: Roboto;
+  font-weight: lighter;
+  margin-bottom: 0;
+}
+
+body {
+  background-image: url("pier2.jpg");
+
+}
+
+#title {
+  padding-top: 50px;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  font-family: Roboto;
+  font-weight: lighter;
+
+
+
+}
